@@ -1,7 +1,6 @@
 #### Loan Appproval System (About the model)
 
 
-
 ###### Steps followed :
 
 1\. import data
